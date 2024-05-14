@@ -19,5 +19,5 @@
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/yourusername/AppTrendz.git
+   git clone https://github.com/Akheelkappoor/AppTrendz.git
 
